@@ -20,4 +20,7 @@ This site can be hosted as a static site. The deploy root is the repository root
 
 ## Netlify or Vercel
 
-Use the repository root as the publish directory. No build command is required.
+Use the included static build configuration:
+
+- Build command: `npm run build`
+- Output directory: `dist`

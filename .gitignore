@@ -10,3 +10,6 @@ Thumbs.db
 *.log
 tmp/
 temp/
+
+# Build output
+dist/
